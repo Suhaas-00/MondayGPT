@@ -1,0 +1,6 @@
+pandas
+requests
+groq
+python-dotenv
+tabulate
+streamlit
