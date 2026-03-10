@@ -6,3 +6,4 @@ requests
 python-dotenv
 groq
 pillow
+pillow==10.3.0
