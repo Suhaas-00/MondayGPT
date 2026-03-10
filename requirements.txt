@@ -1,7 +1,7 @@
-pandas
-requests
-groq
-python-dotenv
-tabulate
-streamlit
+streamlit==1.32.0
 altair==4.2.2
+pandas
+numpy
+requests
+python-dotenv
+groq
